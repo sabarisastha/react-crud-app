@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "id": "b263",
+      "name": "Sabarisastha V",
+      "regNo": "24205022",
+      "dept": "IT"
+    },
+    {
+      "id": "42a1",
+      "name": "Sudalai",
+      "regNo": "24205033",
+      "dept": "IT"
+    }
+  ]
+}

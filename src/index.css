@@ -1,0 +1,44 @@
+
+/*{Create-Page}*/
+.create{
+  width: 100vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+
+
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  
+}
+.form label{
+  font-weight: 500;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(0, 0, 0);
+}
+.form input{
+  outline: none;
+  border-radius: 25px;
+
+}
+
+/*{Read-Page}*/
+.read{
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 600px;
+  justify-content: center;
+  align-items: center;
+}
+.table{
+  width: 600px;
+}
+
